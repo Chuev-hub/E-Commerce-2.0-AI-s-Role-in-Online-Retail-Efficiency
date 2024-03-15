@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-2.0-AI-s-Role-in-Online-Retail-Efficiency/static/css/main.e6c13ad2.css",
+    "main.js": "/E-Commerce-2.0-AI-s-Role-in-Online-Retail-Efficiency/static/js/main.6dc3be7a.js",
+    "index.html": "/E-Commerce-2.0-AI-s-Role-in-Online-Retail-Efficiency/index.html",
+    "main.e6c13ad2.css.map": "/E-Commerce-2.0-AI-s-Role-in-Online-Retail-Efficiency/static/css/main.e6c13ad2.css.map",
+    "main.6dc3be7a.js.map": "/E-Commerce-2.0-AI-s-Role-in-Online-Retail-Efficiency/static/js/main.6dc3be7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6dc3be7a.js"
+  ]
+}
